@@ -12,7 +12,8 @@ ___
 I have no programming skills  :worried:
 ___
 ## *Code Example*
-![screen](https://imgur.com/a/Xuk7ouo)
+![Alt-текст](https://github.com/Stashevski-y/rsschool-cv/assets/126322983/22df10b2-6244-4e0c-a6cd-523783e53242)
+
 ___
 ## *Experience* 
 No experience in this area yet.
