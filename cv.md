@@ -12,7 +12,7 @@ ___
 I have no programming skills  :worried:
 ___
 ## *Code Example*
-![screen](https://drive.google.com/drive/folders/1Zq2zEFErMLNlt9YjM0Xu_Y1uRyGC51T4)
+![screen](https://imgur.com/a/Xuk7ouo)
 ___
 ## *Experience* 
 No experience in this area yet.
