@@ -1,0 +1,44 @@
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+  .nav-link {
+    transition: .3s;
+  }
+  .images {
+    width: 200px;
+    height: 200px;
+ }
+
+  .section-item a:hover {
+    color: #4d2323;
+  }
+  
+  .name {
+    color: red;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;;
+    color: #4d2323;
+  }
+ .paragraf {
+    color: green;
+ }
+ .images1 {
+    width: 150px;
+    height: 200px;
+ }
+ 
